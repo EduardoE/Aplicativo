@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e822bee4ac41934f8616015738132ec2672ff60d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_72b8eb90c17b21007c33849e399887970b4256c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_39a268837f3d88ede260b59244d060b2b42e4ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c2b2854f8720a9273529489fa310a86583df3313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9ff9c0e8ce653cbb91c36894039cd0b15a8bc5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_50b5ff5e2dd55a5cd340bd85972189784306e7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1210d4efbfa3dd8410719eeda6bab1e4feaa063f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_55d6da079bbaea25a5b2adf943e99a8469470faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_108982885262e43ab7e663de107701f721bd25db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_7cbab88c69ac615bd5ff672d62e0f1ea3a4b5457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8f8b80baf551e42d338a3c252776834743b7a57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_69405ab566b35fb6b95cff53339eb44867e1f8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_fe778b0bab5f64431e56c09c6066db853f7588e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4e3dd6a86851ae37b0b17961c7d937e7c553ab79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\GuiaLegal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9edebb76aa7cfc1f7ca86b0498031b5bcf337157.jar" />
+    </item>
+
+</items>
